@@ -32,5 +32,5 @@ A web-based **Movie Recommendation System** that suggests similar movies based o
 
 ---
 
-## 📁 Project Structure
+
 
